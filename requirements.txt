@@ -1,0 +1,9 @@
+streamlit 
+openai
+pypdf
+sentence-transformers
+scikit-learn
+tiktoken
+docx2txt
+requests
+bs4
